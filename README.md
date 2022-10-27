@@ -1,2 +1,3 @@
 # My-site
-https://tarantyl97.github.io/My-site/
+
+Мой первый сайт на HTML и CSS
